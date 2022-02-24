@@ -1,0 +1,28 @@
+id: medfate_model
+emf_type: model
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: ''
+model_repository: ''
+nodes: medfate
+authors:
+- 'mcaceres'
+- 'acabon'
+- 'vgranda'
+tags:
+- water balance
+- forest
+- granier
+- sperry
+links:
+  url_doi: ''
+  url_docs: ''
+requirements: ''
+description: ''
+date: '2022-02-24'
+date_lastmod: '2022-02-24'
+title: MEDFATE Model
+
