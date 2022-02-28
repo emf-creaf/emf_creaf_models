@@ -6,22 +6,24 @@ emf_reproducible: false
 emf_draft: false
 emf_data_type: creaf_data
 data_repository: ''
-model_repository: ''
-nodes: medfate
+model_repository: 'https://github.com/emf-creaf/medfate'
+nodes:
+- "medfate"
 authors:
 - 'mcaceres'
 - 'acabon'
 - 'vgranda'
 tags:
-- water balance
-- forest
-- granier
-- sperry
+- "water balance"
+- "forest"
+- "granier"
+- "sperry"
 links:
-  url_doi: ''
-  url_docs: ''
+  url_doi: 'https://doi.org/10.1016/j.agrformet.2020.108233'
+  url_docs: 'https://emf-creaf.github.io/medfatebook/index.html'
+  url_source: 'https://github.com/emf-creaf/medfate'
 requirements: ''
-description: ''
+description: 'Simulation of water balance of soils and plants within forest stands. Medfate also allows simulating plant growth, mortality and recruitment processes of a set of cohorts competing for light and water within a forest stand. Finally, it also allows relating the amount of plant biomass and the water status of plant tissues to fuel characteristics and, hence, fire hazard.'
 date: '2022-02-24'
 date_lastmod: '2022-02-24'
 title: MEDFATE Model
