@@ -9,6 +9,7 @@ data_repository: ''
 model_repository: 'https://github.com/emf-creaf/medfate'
 nodes:
 - "medfate"
+- "medLDM"
 authors:
 - 'mcaceres'
 - 'acabon'

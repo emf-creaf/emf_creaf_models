@@ -1,0 +1,31 @@
+id: medLDM
+emf_type: model
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+emf_data_type: creaf_data
+data_repository: ''
+model_repository: 'https://github.com/nuaquilue/medLDM'
+nodes:
+- "medfate"
+- "medfate_model"
+authors:
+- 'naquilue'
+- 'mcaceres'
+- ''
+tags:
+- "landscape"
+- "forest stands"
+- "fire"
+- "land-cover"
+links:
+  url_doi: ''
+  url_docs: ''
+  url_source: 'https://github.com/nuaquilue/medLDM'
+requirements: ''
+description: 'Simulation of landscape-scale processes that influence the composition and the arrangment of the landscape such as wildfires and land-cover changes, as well as the structure and composition of forest stands such as fire and forest management, and vegetation dynamics.'
+date: '2022-03-29'
+date_lastmod: '2022-03-29'
+title: Mediterranean Landscape Dynamic Model (medLDM)
+
