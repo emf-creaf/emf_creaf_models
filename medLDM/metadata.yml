@@ -12,15 +12,14 @@ nodes:
 - "medfate_model"
 authors:
 - 'naquilue'
-- 'mcaceres'
-- ''
+- 'lbrotons'
 tags:
 - "landscape"
 - "forest stands"
 - "fire"
 - "land-cover"
 links:
-  url_doi: ''
+  url_doi: 'https://doi.org/10.1371/journal.pone.0062392'
   url_docs: ''
   url_source: 'https://github.com/nuaquilue/medLDM'
 requirements: ''
