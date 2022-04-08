@@ -6,7 +6,7 @@ emf_reproducible: false
 emf_draft: false
 emf_data_type: creaf_data
 data_repository: ''
-model_repository: 'https://github.com/emf-creaf/medfate'
+model_repository: 'https://emf-creaf.github.io/medfate'
 nodes:
 - "medfate"
 - "medLDM"
